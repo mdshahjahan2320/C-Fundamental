@@ -1,2 +1,2 @@
-# C++ Programming-
-My C++ Programming 
+# C++ Programming: 
+My C++ Logical Programming
